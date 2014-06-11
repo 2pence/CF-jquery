@@ -1,4 +1,4 @@
-# A Better Browser – CloudFlare App
+# jquery insert – CloudFlare App
 
 Auto  insert jquery into CloudFlare  more of a person test for now
 
