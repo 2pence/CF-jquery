@@ -1,0 +1,31 @@
+{
+	"name": "CF Jquery sitewide",
+	"description": "inserts jquery to whole network",
+	"category": "webmaster",
+	"version": "1.0.2",
+	"main": "./public/javascripts/public/javascripts/cf-jquery.js",
+	"implements": "AMD",
+	"contributors":
+	[
+		{
+			"name": "Andrew W.",
+			"email": "andrew@webby.me"
+		}
+	],
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/2pence/CF-jquery"
+	"config":
+	{
+		},
+		"details":
+		{
+			"Category": "Webmaster Tools",
+			"Language": "English",
+			"Restrictions": "None"
+		}
+
+		
+	}
+}
